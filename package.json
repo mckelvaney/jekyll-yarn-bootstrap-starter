@@ -1,0 +1,14 @@
+{
+  "name": "homebrewcollab-co-uk",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mckelvaney/homebrewcollab-co-uk.git",
+  "author": "Michael McKelvaney <michael@mckelvaney.co.uk>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^4.1.3",
+    "jquery": "1.9.1",
+    "popper.js": "^1.14.3"
+  }
+}
