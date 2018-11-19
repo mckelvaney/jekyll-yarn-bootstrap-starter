@@ -33,3 +33,6 @@ exclude:
   - package.json
   - yarn.lock
   - LICENCE
+sass:
+  load_paths:
+    - node_modules
